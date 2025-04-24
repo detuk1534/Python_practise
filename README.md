@@ -1,5 +1,5 @@
 # Python_practice
-My practice Python projects
+Topics learned in each project
 
 *First Project* - 
 - Variables (secret_number, guess)
