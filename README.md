@@ -1,2 +1,2 @@
-# Python_practise
-My practise projects
+# Python_practice
+My practice python projects
