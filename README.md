@@ -1,7 +1,7 @@
 # Python_practice
 Topics learned in each project
 
-*First Project* 
+*Calculator* 
 - Variables (secret_number, guess)
 - Input/Output (input(), print())
 - Random numbers (random.randint)
@@ -9,7 +9,7 @@ Topics learned in each project
 - Conditions (if, elif, else)
 - Type conversion (int())
 
-*Second Project* 
+*number_guess* 
 - def | Defines a function
 - input() | Takes user input
 - float() | Converts input to a decimal number
